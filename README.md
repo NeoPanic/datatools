@@ -28,6 +28,11 @@ A simple list of awesome open source tools to deal with data
 * [cocarto](https://cocarto.com/) nice app developed by Codeurs en liberté. It allows to collaboratively edit points, lines and shapes on a map.
 * [khartis](https://www.sciencespo.fr/cartographie/khartis/) developed by Medialab Sciences Po.
 
+## Graphs 
+
+* Gephi
+* Retina : https://ouestware.gitlab.io/retina/1.0.0-beta.1/
+* 
 ## Dashboards
 
 * [Metabase](https://github.com/metabase/metabase)
